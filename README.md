@@ -1,5 +1,18 @@
 # Animated-Login-Form
+animated login screen using rive library
 
+## Downloads apk
+
+[<img alt="Get it on Google Play" height="150" src="https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/drive.png">](https://drive.google.com/file/d/1HqOaIXLfp-bD2zzAElW1ItylPxNJ-Tki/view?usp=sharing)
+
+
+## Screenshots
+
+  Screen1  | Screen2            |  Screen3  |  Screen4 |  Screen5 
+:-------------------------|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/screen.gif)   |   ![](https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/2.jpg)  |  ![](https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/3.jpg)|  ![](https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/4.jpg)|  ![](https://github.com/muhammedelsami/Animated-Login-Form/blob/main/assets/5.jpg)
+
+---------------------------------------------------------
 
 
 ```
