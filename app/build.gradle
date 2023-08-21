@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.muhammed.animatedloginform'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.muhammed.animatedloginform"

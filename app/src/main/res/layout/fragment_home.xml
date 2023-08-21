@@ -14,7 +14,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:gravity="center"
-        android:text="Welcome \n User Name : muhammed \n Password : 1234"
+        android:text="خوش آمدید \n نام کاربری  : _xdevelop \n رمز عبور : 1234"
         android:textSize="20sp"
         android:fontFamily="@font/nexa_bold"
         />
@@ -27,7 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_margin="20dp"
-        android:text="Logout"
+        android:text="خروج"
         android:textSize="18sp"
         android:textColor="@color/white"
         android:textAllCaps="false"

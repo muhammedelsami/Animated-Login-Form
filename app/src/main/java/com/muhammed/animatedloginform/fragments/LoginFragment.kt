@@ -161,9 +161,9 @@ class LoginFragment : Fragment(), View.OnClickListener {
             passEditText.clearFocus()
         }
 
-        if (mailEditText.text.toString() == "muhammed" && passEditText.text.toString() == "1234"
+        if (mailEditText.text.toString() == "_xdevelop" && passEditText.text.toString() == "1234"
         ) {
-            Toasty.success(requireContext(), "Correct UserName and Password").show()
+            Toasty.success(requireContext(), "ورود موفق بود!").show()
             binding.animate.play("success", Loop.AUTO, Direction.AUTO)
 
             // go to home fragment after 2 seconds
@@ -173,7 +173,7 @@ class LoginFragment : Fragment(), View.OnClickListener {
             }, 2000)
 
         } else {
-            Toasty.error(requireContext(), "Wrong UserName or Password").show()
+            Toasty.error(requireContext(), "نام کاربری یا رمز اشتباه است").show()
             binding.animate.play("fail", Loop.ONESHOT, Direction.BACKWARDS)
         }
     }
